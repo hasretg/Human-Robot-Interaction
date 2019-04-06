@@ -31,10 +31,10 @@ Note that the installation order matters!
 
 
 ## General Usage Notes
-Once you installed all the required softwares, go the the Folder with the „Human Robot Interaction“ Software (called HumanRobotInteractionU) —> Assets —> Visualization
+Once you installed all the required softwares, go the the Folder with the „Human Robot Interaction“ Software (called human_robot_interaction) —> Assets —> Visualization
 This should start the Unity project. After that click on the play button and it should work :)
 
-If you want to edit the code, go to HumanRobotInteractionU —> Assets —> HumanRobotInteraction —> HumanRobotInteractionVS.csproj
+If you want to edit the code, go to human_robot_interaction —> Assets —> HumanRobotInteraction —> HumanRobotInteractionVS.csproj
 This should start the Visual Studios Project
 
 
